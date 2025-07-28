@@ -8,7 +8,7 @@ sum = 0
 
 for i in range(1,6):
     
-    n=int(input("enter number : "))
+    n=int(input(f"enter number {i} : "))
     if n%2==0:
         print("even number",n)
         ev+=1

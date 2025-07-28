@@ -59,7 +59,7 @@ while True:
            print("prime!!")
 
          else:
-          print("not prime!!")
+           print("not prime!!")
          return prime
 
         n = int(input("enter number : "))
